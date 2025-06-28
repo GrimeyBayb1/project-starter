@@ -1,4 +1,4 @@
-name: Build Project
+name: moblie data LTE
 
 on:
   pull_request:
